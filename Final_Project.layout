@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ID.s" open="1" top="0" tabpos="2">
+		<Cursor position="684" topLine="18" />
+	</File>
+	<File name="Name.s" open="1" top="0" tabpos="3">
+		<Cursor position="416" topLine="17" />
+	</File>
+	<File name="draw_new.s" open="1" top="1" tabpos="4">
+		<Cursor position="4137" topLine="114" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="1343" topLine="47" />
+	</File>
+</CodeBlocks_layout_file>
