@@ -5,7 +5,9 @@ Windows 10
 
 ## 開發環境
 Code Block
+
 Integrated Development Environment; IDE
+
 GNU Compiler Collection (GCC)
 
 
